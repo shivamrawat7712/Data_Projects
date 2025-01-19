@@ -3,7 +3,7 @@ This Project is about Web Scrapping using Python
 
 **Problem:-** 
 <br>
-How one can collect data of a specific person (event) from media(website).
+How one can collect data of a specific person (event) from media(website)?
 <br>
         Here I have taken the reference of media from theguardian
         and the specific person as P.M Narendra Modi
